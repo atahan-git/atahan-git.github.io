@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 ### Contact me
-[email@domain.com](mailto:atahan012000@gmail.com)
+[atahan012000@gmail.com](mailto:atahan012000@gmail.com)
