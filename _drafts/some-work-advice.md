@@ -9,7 +9,6 @@ tags:
     - Real Life
 categories:
     - Advice
-draft: true
 ---
 
 If you haven't read it yet, please take a look at [My Thoughts on Advice]() before reading any of my advice articles!
