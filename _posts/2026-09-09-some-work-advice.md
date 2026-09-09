@@ -1,7 +1,7 @@
 ---
 title: Some Work Advice
 description: Work advice I was giving to my brother.
-date: 2026-09-07T14:23:31.932Z
+date: 2026-09-09T16:55:56.661Z
 preview: ""
 tags:
     - Advice
