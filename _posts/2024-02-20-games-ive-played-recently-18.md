@@ -13,3 +13,7 @@ It has been a long time yet again, but I'm back with another list of games. This
 - **Vectorio:** Another Factorio-like with more emphasis on the tower defense aspect where you get resources, craft better resources, then build towers to defend your base as more building attracts stronger enemies. As with many Factorio-likes this one reminded me of how much effort Factorio put into Quality of Life and how seeing the same features missing in other games makes me want to play another Factorio mod instead of a different game...
 
 And that's all for the first part! Even more factory games with some indie games sprinkled in. I'm also eyeing the new Helldivers 2 as I played the first game way before and liked it but who knows what I will play next. I often pick what to play on the spot as I read an article about a new or old game, or sometimes I just look through my backlog of games on Steam or my wishlist. Soo many great games out there with so little time and energy to play...
+
+<div class="slack-reactions">
+<img src="/images/slack-reactions-20240220.png" alt="Slack reactions" width="93" height="33" />
+</div>

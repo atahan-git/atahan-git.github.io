@@ -13,3 +13,7 @@ Here's Games I've Played Sometime Recently part 2, as promised:
 - **To the Core:** When I'm stressed I like playing incremental games to get some dopamine and this game was exactly that. I do always get amazed at how many different games can form from simple ideas though. In this game you have a drill, and you are trying to drill to the core of planets. While doing that you get resources to upgrade your drill, unlock new planets, and do all the incremental stuff. This game didn't do anything amazing, but there was enough choice involved in finding the optimal path of upgrades and also how to actually dig and where to dig etc. that it kept me playing until the end of the game.
 
 More shall come, eventually! Probably in a couple more months as always.
+
+<div class="slack-reactions">
+<img src="/images/slack-reactions-20240816.png" alt="Slack reactions" width="92" height="32" />
+</div>

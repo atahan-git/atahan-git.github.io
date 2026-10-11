@@ -13,3 +13,7 @@ After another insanely long gap (wow 6 months already?) it's time for some Games
 - **A Game About Digging A Hole:** This game went viral a while back and it was interesting to play for me because I was following the developer on twitter. They were working on a much more complex game, but one day they posted a tweet that was like "you know what, I'll just take a break and make this little game". I'm pretty sure the digging game sold a lot more than what they expected from even their original proper game. The game itself is super simple, yet super satisfying. You have a tiny shovel, and you dig the voxel ground. Quickly you start to strategize on how best to dig so you can climb back, and how to make the most money with each trip. This is a short game, but a lot of fun figuring things out! And the simple act of digging is a lot of fun too.
 
 And that's for part 1! You'll have to wait for a week until part 2. And who knows, I've made some reminders for myself so maybe next time I won't forget to write these for so long. Happy rest of your week!
+
+<div class="slack-reactions">
+<img src="/images/slack-reactions-20250512.png" alt="Slack reactions" width="86" height="34" />
+</div>

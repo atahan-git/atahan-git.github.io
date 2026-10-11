@@ -117,6 +117,19 @@ img {
   vertical-align: -0.15em;
 }
 
+.slack-reactions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 12px 0;
+
+  img {
+    height: auto;
+    max-width: 100%;
+  }
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;

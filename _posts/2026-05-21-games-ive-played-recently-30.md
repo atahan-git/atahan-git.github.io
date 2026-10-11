@@ -14,3 +14,7 @@ I don't even have an excuse for waiting so long between these anymore. But here'
 - **20 Minutes Till Dawn:** In this roguelike Vampire Survivors-like you are trying to survive 20 minutes while monsters attack you from all sides and you collect xp and get upgrades. I wanted to play this one because it made the indie news for a bit because this one guy played Vampire Survivors (a surprise viral indie hit) and made a similar but different game in like 2 months and captured a good chunk of the popularity (which arguably led to some of the friendslop follow up games that came after the likes of Lethal Company because it was proven to be a good strategy). And 20 Minutes Till Dawn is a nice game indeed. But it's also a bit too streamlined, too clean to me. Oh well.
 
 And that's about it. This one ended up being extra big too because I wanted to get all of the remaining ones out in one go. But my debt is paid. I can return to actually recent games I've played once again. I already played a bunch of fun and interesting games I want to share, so wait for those!
+
+<div class="slack-reactions">
+<img src="/images/slack-reactions-20260521.png" alt="Slack reactions" width="321" height="30" />
+</div>

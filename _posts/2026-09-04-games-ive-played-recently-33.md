@@ -13,3 +13,7 @@ Ok here's part 3 of Games I've Played Recently:
 - **Meccha Chameleon:** Yet another friendslop game, and a mega viral one at that. In Meccha Chameleon you are a little white dude. You get a little bit of time to find a good spot in the level and you need to paint yourself to hide from the hunters when they arrive. A small tweak to the "prop hunt" gamemode that existed for many years, but such a great twist. This was a LOT of fun! I was playing this with a bunch of people from a gamejam I did this summer and it was great to chat with them again. The artists amazed us with their amazing painting skills, while the rest showed creativity on how well you can hide with just some blobs of color. The highlight was in the painting gallery level (the most popular custom map) where 6 of us were looking at the same painting trying to find the last person, and we could not find him until the timer ran out, for a whole minute. The game has a fun "whistle" mechanic so we all knew which painting it was, and just as a comparison you usually find people in like 5 seconds. But alas, stars only aligned one time, and also just like many in this friendslop genre nobody had much motivation to play again after one time. Fun while it lasts.
 
 And that's all I have for now. I'm sure in a couple more months I'll have another big list of games and wonder when I played them all... Happy weekend everyone!
+
+<div class="slack-reactions">
+<img src="/images/slack-reactions-20260904.png" alt="Slack reactions" width="97" height="33" />
+</div>

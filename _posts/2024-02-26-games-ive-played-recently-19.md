@@ -14,3 +14,7 @@ As promised here's the second part of the New Games I've Played Sometime Recentl
 - **Buckshot Roulette:** This game was really popular online a while back and I decided to give it a go. In this game you are playing a variation of roulette with a shotgun against an AI opponent. This game spices things up with a whole bunch of items to increase your odds of winning. This one has unique indie graphics, and it's a fun, short, contained game.
 
 Aaand that was part 2. Some bigger games, and some smaller games.
+
+<div class="slack-reactions">
+<img src="/images/slack-reactions-20240226.png" alt="Slack reactions" width="135" height="31" />
+</div>

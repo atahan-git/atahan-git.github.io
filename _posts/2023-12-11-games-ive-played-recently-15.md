@@ -12,3 +12,7 @@ It's been a long time since last I've made one of these because I haven't found 
 - **Factorio Exotic Industries Mod:** Halfway through Nullius I got too overwhelmed but I still wanted to keep playing so I took a break and played this mod instead lol. This mod also shakes things up slightly with some light byproducts that you can very easily get rid of, and some interesting upgrades you can get to your smelting. It also has an interesting tech scaling where things get more expensive with each tech. Although I think it was scaling too fast, and the options to tune it were a little too insufficient. The mod adds some giant inserters though and I was very sad they didn't include it as a separate mod hehe. After playing this for a while it suffered from the same problem of just having more of the same so I quit this one halfway through and actually returned to Nullius, then didn't finish it the second time either.
 
 And that's all! I'm actually playing Dyson Sphere Program now, which is another fairly long factory game. I'm enjoying it so far and definitely will write about it once I'm done. Hopefully I will find some more nice contained games to write about soon. Ideally some games that don't take 200 hours to play, but those are the best ones!
+
+<div class="slack-reactions">
+<img src="/images/slack-reactions-20231211.png" alt="Slack reactions" width="92" height="30" />
+</div>

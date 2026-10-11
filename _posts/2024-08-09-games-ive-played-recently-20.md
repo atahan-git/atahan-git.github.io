@@ -14,3 +14,7 @@ Life has been hectic for me for the past few months but I managed to play some g
 - **Witch Hand:** This was also a game I've been following for a while and recently it was on sale! This one is a "stacklands like" where you have a board and cards. You combine cards, eg crystal mine + witch + 20 seconds = crystal, or 3 crystal + house spell = house, to progress through the game. This one was different from Stacklands with its witch aesthetic but also by making the witch your focal point. The game even has a few different witches to pick from that change the gameplay to warrant some replayability. I loved the original Stacklands so this was a joy to play too! Lots of mysteries to discover and a demon lord to beat at the end too. The stacklands formula seems simple on the surface but there are very few games that use it, probably because it's a fairly niche genre with few players. I'm excited to see what new games come out in the same genre, and I might even make one myself someday!
 
 And that's all for now. Wait until next week for part 2 <img class="slack-emoji" src="/images/slack-stonks_up-BFCC061C6AC0.png" alt=":stonks_up:" />
+
+<div class="slack-reactions">
+<img src="/images/slack-reactions-20240809.png" alt="Slack reactions" width="138" height="35" />
+</div>

@@ -13,3 +13,7 @@ Another Friday, and time for the next Games I've Played Recently. Occasionally i
 - **Cosmodrill:** Yet another incremental game. In Cosmodrill, you, an employee that collects materials from asteroids using your drill ship, get sucked into a black hole, a bunch of bad stuff happens, now you need to solve a mystery while upgrading your ship and repairing stations. I finished the whole game in just under 2 hours, but it was a lot of fun. This one has that aspect of balancing which upgrade to buy first, combined with secondary abilities, and a couple of biomes that make it an optimization puzzle to figure out which combination progresses the fastest. And it had an interesting enough story to go with, even though the ending to the story was a bit eh. The digging and buying upgrades were fun the whole way through though, and it was fun to piece together the story to try to predict the final reveal. A fun evening or two for sure.
 
 And that's it for part 2! I actually cut a bunch of games out of this one, sooo there is only one more part left, but oh well. Have a fun weekend everyone!
+
+<div class="slack-reactions">
+<img src="/images/slack-reactions-20260807.png" alt="Slack reactions" width="101" height="33" />
+</div>

@@ -13,3 +13,8 @@ After the long long pause, the New Games I've Played is here again! Last year I 
 - **Phoenix Hope:** Earlier this summer Kingdom Eighties was released, and that was super fun, so I was searching for similar games and I found this. Kingdom Eighties is a 2d game where you are a "monarch" who runs around to collect coins, then use those to build a simple kingdom, and you get attacked from both sides so you need archers and walls. Phoenix Hope is similar, but you don't exist in the world and just build a kingdom. It is still in early access, so the game ends after the first boss, but even that was super challenging and nice to figure out.
 
 And that is all for now! Hopefully this week will be slightly more chill, giving me more headspace to try out new games.
+
+<div class="slack-reactions">
+<img src="/images/slack-reactions-20230731.png" alt="Slack reactions" width="93" height="33" />
+<img src="/images/slack-reactions-20230731-2.png" alt="Slack reactions" width="93" height="33" />
+</div>

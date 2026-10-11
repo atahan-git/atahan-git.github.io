@@ -14,3 +14,7 @@ I totally got busy and skipped some weeks there but it continues, part 3 of Game
 - **Receiver 2:** Yep, this one is a weird one too. Familiarize yourself with how to operate various handguns. Make sure to safely holster them so that you don't shoot yourself in the leg. Carefully aim at the weak spots of various turrets and drones. All the while learning more about a "Threat" that is mindwashing people while you resist its temptations. And hey it's also about social media. But be warned, this game is pretty brutal in its difficulty so you will die a lot.
 
 Aaand that was part 3. I've almost finished all the games I've stored up, so it's almost time to play some new games? Don't worry I'm already in the process of playing through a couple so I'm sure I'll have the next batch after these soon enough. But until then, happy rest of your week!
+
+<div class="slack-reactions">
+<img src="/images/slack-reactions-20250603.png" alt="Slack reactions" width="141" height="35" />
+</div>
