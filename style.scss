@@ -110,6 +110,13 @@ img {
   max-width: 100%;
 }
 
+.slack-emoji {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
