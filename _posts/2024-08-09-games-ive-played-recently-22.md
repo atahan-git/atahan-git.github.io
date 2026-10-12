@@ -1,11 +1,11 @@
 ---
-title: "Games I've Played Recently #20"
+title: "Games I've Played Recently #22"
 date: 2024-08-09
 categories: 
   - "games-this-week"
 ---
 
-Life has been hectic for me for the past few months but I managed to play some games nevertheless! There are too many games again so I will split this into two. So here's another Games I've Played Sometime Recently:
+Life has been hectic for me for the past few months but I managed to play some games nevertheless! There are too many games again so I will split this into two. So here's another Games I've Played Sometime Recently Part 1:
 
 - **Rogue Voltage:** This is a nice little roguelike where the main gimmick is you "wire up" different components in your backpack to shoot or heal or do other things. Eg wire the red wire of the generator to the booster, which has a purple wire output, which connects to your gun that also has only purple wire as input. This was nice for a bit, but the game didn't do much with its unique concept (eg nothing relationally affects anything, and things don't actually "run", the game is turn based so you send pulses of electricity) so it didn't grab me for very long. Still nice to know that even a small exploration of a concept (with a nice coat of paint) can bring joy for people! At least for a few hours.
 - **Dark and Darker:** I wanted to like this game but couldn't. This is a PvPvE random dungeon crawler where you get dropped into a dungeon with some other players and have to get loot, kill monsters, then escape through stairs. The dungeon's layout doesn't change so you are meant to learn your way around. This game could've been nice, but it suffers from the usual "you joined the game too late so now every player is a pro and you get instantly killed by other players before you can do anything". Soooo yeah. Not too much fun to do that over and over while trying to learn the game.

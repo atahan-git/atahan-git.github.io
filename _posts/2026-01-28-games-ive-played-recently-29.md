@@ -1,5 +1,5 @@
 ---
-title: "Games I've Played Recently #27"
+title: "Games I've Played Recently #29"
 date: 2026-01-28
 categories: 
   - "games-this-week"
