@@ -5,7 +5,7 @@ categories:
   - "games-this-week"
 ---
 
-As promised here's the second part of the New Games I've Played Sometime Recently (part 2):
+As promised here's the second part of the **New Games I've Played Sometime Recently (part 2)**:
 
 - **Palworld:** Very popular game. Fun with friends. This one has a lot of "tasks" to do, but after the early game I found lots of them to be more of chores and "more of the same" rather than interesting twists. Especially after unlocking some pal abilities and guns, and nothing tops the early game fox flamethrower ability... I might just drop this one, or keep playing a little bit with friends until the end. But even with that the time I had with it is fun, which was unexpected for this kind of "lets mix a lot of popular games together and hope for the best" kind of game.
 - **Frostrain:** Another "deck" builder game where your deck is your train and you are trying to go to the "promised land" while a storm is coming after you. I got a lot of fun out of this free to play student project trying out all the different strategies and getting every achievement in this fairly short game. And this was a nice surprise to me because as I'm making a train game as my hobby I've been trying out any train game I see and most of them were not that good. It's always interesting when a random free/cheap indie game like this pops up.

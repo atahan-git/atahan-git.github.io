@@ -5,7 +5,7 @@ categories:
   - "games-this-week"
 ---
 
-I didn't have too much time last week but I still got some new games in. Soo here's this week's New Games I've Played:
+I didn't have too much time last week but I still got some new games in. Soo here's this week's **New Games I've Played**:
 
 - **Thronefall:** I was recommending this earlier last week because its pretty cool! This one is also like the Kingdom games. Every day you build some buildings, like houses that generate revenue or barracks that spawn soldiers. Then every night you fight enemies both yourself and with your towers and soldiers. With something like 45 perks this game was a lot of fun to figure out how to beat the harder levels.
 - **Stacks:Space!:** This one is like the Stacklands game, but set in space. In this game you have a whole bunch of cards and astronauts and robots and you craft new things with them. Eg you put 2 plasteel and 1 nanocarbon together with an astronaut to get a solar panel. Similar to Stacklands it is pretty fun to figure out. Although this one also gets somewhat micromanage-y towards the end.

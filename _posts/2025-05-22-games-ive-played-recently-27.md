@@ -5,7 +5,7 @@ categories:
   - "games-this-week"
 ---
 
-After some more procrastination on writing this, here's Part 2 of Games I've Played Recently. There are some weird games in this one:
+After some more procrastination on writing this, here's **Part 2** of **Games I've Played Recently**. There are some weird games in this one:
 
 - **Spaceplan:** This is a mostly standard incremental game. You are a probe. Send some potato satellites to generate some energy. Time travel. Discover a potato civilization. Break space-time. All the fun stuff. I played this game waaay back, but played it again recently. It's just some chill stupid fun watching numbers go up. There are some skill challenges too, something you don't often see in incremental clickers.
 - **Scanner Sombre:** This is a weird one. You are in a super dark cave with a laser scanner. The only way to see is to mark the area with the dots from your scanner. Of course, that lends itself super well to horror. Discover some paranormal cult stuff in this dark cave and find a dark truth. This game has some pretty boring segments because your character walks slowly, but it's interesting. I actually played this again (to the end this time) because I was prototyping a game with laser dot vision myself, but it was fun nonetheless.

@@ -5,7 +5,7 @@ categories:
   - "games-this-week"
 ---
 
-The reverse chronological ordered Games I've Played Recently continues. Now we've reached last summer. Anyways part 3:
+The reverse chronological ordered Games I've Played Recently continues. Now we've reached last summer. Anyways Part 3:
 
 - **The NOexistenceN of you AND me:** This is a very short visual novel that still looks into themes like: Are characters in media alive? Does it matter? What even is a character in a multiple choice story if they change to fit your decisions? This game also works as an ad to their newly released much bigger in scope game, but it has merit on its own. Overall this was short and nice, giving me new ways to look at games/visual novels, and it has striking art. There are also a lot of references to popular internet memes, so I enjoyed how they were handled.
 - **Wheel World:** I played this as part of looking at references for gamification at work. In Wheel World you ride around on your bike and do races and learn about some NPCs. That's really about it. The controls were nice, but after you do 2 races there isn't much. Also its artstyle makes it harder to see the terrain which is unfortunate because it is a nice artstyle. It's one of those games that lets you see the potential, but the game never really reaches it. Oh well.

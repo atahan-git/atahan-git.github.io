@@ -5,7 +5,7 @@ categories:
   - "games-this-week"
 ---
 
-After a long pause due to Baldur's Gate 3, I finally have another New Games I've Played.
+After a long pause due to Baldur's Gate 3, I finally have another **New Games I've Played**.
 
 - **Baldur's Gate 3:** Pretty good game overall and everybody knows about it so I won't repeat much. It took me 74 hours to complete. The last act did feel a bit too long, especially because I reached the maximum level 12 pretty early so there were a lot of just going around and completing the remaining interesting missions around. I do want to replay this game sometime though, even with everything I think I missed a lot of content. Definitely after a break though lol.
 - **Crop Rotation:** A tiny little automated deck builder-ish game. In this game you pick out plants with various bonuses and requirements, then they automatically and randomly get planted on a grid. Based on their positioning and your various upgrades you earn money to buy more plants. Nice little indie game, although it definitely lasted waaay too long. They could make each playthrough half as long and it would be much more fun. Especially because later in the game you have soo many plants it gets harder to make meaningful choices.

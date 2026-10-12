@@ -5,7 +5,7 @@ categories:
   - "games-this-week"
 ---
 
-This week I played some interesting updates to some games from before. Sooo the New Stuff I Played This Week:
+This week I played some interesting updates to some games from before. Sooo the **New Stuff I Played This Week**:
 
 - **Timberborn Update 5:** Timberborn is a cute game where you control a beaver settlement after humans left the earth in a climate catastrophe of sorts. The land is very dry and you get frequent droughts so you have to use terrain to your advantage and build big dams to have enough water to last the dry times. The new update adds "badwater", which is a new threat that makes so much sense to have in retrospect. Now sometimes your water sources not just dry out, but spew out toxic waste. You need to redirect this out of your water supply, or your beavers will get sick. A nice addition to an already chill game. However it still has some of the same problems of being a more sandbox-y experience in early access. After you have a self sustaining small settlement there is no reason to expand your population and build even grander dams unless you personally set out to achieve those goals. Still pretty nice game though, especially nice to play with some podcast playing in the back.
 - **Thronefall:** They added a new map and lots of new perks! Still a pretty nice game. Although the hardest challenge of the latest map is pretty difficult. Also interesting that they went with a map where you are exposed from every possible side, unlike most other maps that come with choke points. I'm not a huge fan of dealing with enemies coming from all sides, but the other new additions like the hero unit are interesting. I wonder what the next map will be like!
