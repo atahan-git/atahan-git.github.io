@@ -140,6 +140,23 @@ img {
   color: $gray;
 }
 
+.posts .post h1 .date {
+  font-size: 18px;
+  font-weight: normal;
+  flex-shrink: 0;
+}
+
+.posts .post h1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+
+.posts .post h1 > a {
+  min-width: 0;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
