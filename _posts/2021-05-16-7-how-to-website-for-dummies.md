@@ -1,6 +1,8 @@
 ---
-title: "7 - How to Website for Dummies"
+title: "How to Website for Dummies"
 date: 2021-05-16
+categories:
+    - Advice
 ---
 
 Hello hello. It's been a while since I've made a post. I don't have a particular reason why not, other than the fact that I was juggling way too many projects at the same time so I didn't have time to work on my game, or website, or anything else really.

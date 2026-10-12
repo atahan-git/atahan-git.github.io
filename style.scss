@@ -278,6 +278,44 @@ nav {
 // .main
 //
 
+.post-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 2rem;
+}
+
+.filter-chip {
+  border: 1px solid $lightGray;
+  border-radius: 999px;
+  background: $white;
+  color: $darkGray;
+  cursor: pointer;
+  font: inherit;
+  font-size: 15px;
+  padding: 0.45rem 0.9rem;
+
+  &:not([aria-pressed="true"]):hover {
+    border-color: $blue;
+    color: $blue;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $blue;
+    outline-offset: 2px;
+  }
+
+  &[aria-pressed="true"] {
+    background: $blue;
+    border-color: $blue;
+    color: $white;
+  }
+}
+
+.posts > .post[hidden] {
+  display: none;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;

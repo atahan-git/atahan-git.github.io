@@ -3,7 +3,7 @@ title: "6 - Made in Mars: A new name - A new school year."
 date: 2020-09-14
 categories: 
   - "life-update"
-  - "made-in-mars"
+  - "devlog"
 coverImage: "promo-timescale-website.png"
 ---
 

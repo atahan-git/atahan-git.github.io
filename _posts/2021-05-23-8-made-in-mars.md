@@ -1,9 +1,9 @@
 ---
-title: "8 - Made in Mars"
+title: "7 - Made in Mars"
 date: 2021-05-23
 categories: 
   - "life-update"
-  - "made-in-mars"
+  - "devlog"
 coverImage: "all-the-smelters.gif"
 ---
 

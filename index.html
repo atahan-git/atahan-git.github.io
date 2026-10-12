@@ -3,8 +3,24 @@ layout: default
 ---
 
 <div class="posts">
+  <div class="post-filters" role="group" aria-label="Filter posts by type">
+    <button class="filter-chip" type="button" data-filter="all" aria-pressed="true">All posts</button>
+    {% assign post_categories = site.categories | sort %}
+    {% for category in post_categories %}
+      {% unless category[0] == "life-update" %}
+        <button class="filter-chip" type="button" data-filter="{{ category[0] | escape }}" data-post-count="{{ category[1].size }}" aria-pressed="false">
+          {% case category[0] %}
+            {% when "games-this-week" %}Games This Week
+            {% when "devlog" %}Devlog
+            {% else %}{{ category[0] | capitalize }}
+          {% endcase %}
+        </button>
+      {% endunless %}
+    {% endfor %}
+  </div>
+
   {% for post in site.posts %}
-    <article class="post">
+    <article class="post" data-categories="{{ post.categories | jsonify | escape }}">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="date">{{ post.date | date: "%B %e, %Y" }}</span></h1>
 
@@ -16,3 +32,29 @@ layout: default
     </article>
   {% endfor %}
 </div>
+
+<script>
+  const filterButtons = document.querySelectorAll(".post-filters .filter-chip");
+  const posts = document.querySelectorAll(".posts > .post");
+  const filterContainer = document.querySelector(".post-filters");
+  const categoryButtons = Array.from(filterButtons).filter((button) => button.dataset.filter !== "all");
+
+  categoryButtons
+    .sort((first, second) => Number(second.dataset.postCount) - Number(first.dataset.postCount))
+    .forEach((button) => filterContainer.appendChild(button));
+
+  filterButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      const activeFilter = button.dataset.filter;
+
+      filterButtons.forEach((filterButton) => {
+        filterButton.setAttribute("aria-pressed", String(filterButton === button));
+      });
+
+      posts.forEach((post) => {
+        const categories = JSON.parse(post.dataset.categories);
+        post.hidden = activeFilter !== "all" && !categories.includes(activeFilter);
+      });
+    });
+  });
+</script>
