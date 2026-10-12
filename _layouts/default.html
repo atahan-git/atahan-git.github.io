@@ -46,6 +46,31 @@
       </div>
     </div>
 
+    <script>
+      (function () {
+        var bars = document.querySelectorAll('.wrapper-masthead, .wrapper-footer');
+        var lastY = window.pageYOffset, ticking = false;
+        function update() {
+          var y = Math.max(0, window.pageYOffset);
+          var max = document.documentElement.scrollHeight - window.innerHeight;
+          var delta = y - lastY;
+          if (y <= 0 || y >= max - 2 || delta < -6) {
+            bars.forEach(function (b) { b.classList.remove('bar-hidden'); });
+          } else if (delta > 6) {
+            bars.forEach(function (b) { b.classList.add('bar-hidden'); });
+          } else {
+            ticking = false;
+            return;
+          }
+          lastY = y;
+          ticking = false;
+        }
+        window.addEventListener('scroll', function () {
+          if (!ticking) { ticking = true; requestAnimationFrame(update); }
+        }, { passive: true });
+      })();
+    </script>
+
     {% include analytics.html %}
   </body>
 </html>

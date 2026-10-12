@@ -189,6 +189,15 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: $white;
+  transition: transform 0.25s ease;
+}
+
+.wrapper-masthead.bar-hidden {
+  transform: translateY(-100%);
 }
 
 .masthead {
@@ -351,6 +360,21 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  position: sticky;
+  bottom: 0;
+  z-index: 100;
+  transition: transform 0.25s ease;
+}
+
+.wrapper-footer.bar-hidden {
+  transform: translateY(100%);
+}
+
+@media (min-width: 641px) {
+  .wrapper-masthead.bar-hidden,
+  .wrapper-footer.bar-hidden {
+    transform: none;
+  }
 }
 
 footer {
