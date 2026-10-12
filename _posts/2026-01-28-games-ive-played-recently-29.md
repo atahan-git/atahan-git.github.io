@@ -5,7 +5,7 @@ categories:
   - "games-this-week"
 ---
 
-Once again after a long "break" that took forever (its 2026 already?) I bring you another Games I've Played Recently Part 1! This time I'll go in reverse chronological order because I sorta want to talk about this last game I played:
+Once again after a long "break" that took forever (its 2026 already?) I bring you another Games I've **Played Recently Part 1**! This time I'll go in reverse chronological order because I sorta want to talk about this last game I played:
 
 - **Consume Me:** This is a little indie game that says it's about dieting but really it's about the stress of being a student in the modern times. You balance personal goals, academic goals, relationship goals, all while trying to keep to a diet. To me this was an interesting one, because I played it so well the game was like "how did you do all this? did you play this before? Anyways you aren't supposed to do all those successfully so here's how everything fell apart regardless", which is accurate to real life. Sometimes you can do everything in your overly ambitious to-do list, and still find out none of it matters.
 - **Drill Bird:** A tiny indie game about a bird who drills. I love drilling/upgrades games so this was a fun evening. I do wish the game was longer, but with its limited length it still brings some interesting mechanics to the genre. And the bird is cute.
