@@ -6,3 +6,5 @@ categories:
 ---
 
 A new game every 2 days...
+
+![Steam community comparison showing achievements, games played, and longest play streak](/images/steam-how-you-compare-2023.png)

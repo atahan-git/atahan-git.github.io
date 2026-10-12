@@ -5,7 +5,7 @@ categories:
   - "games-this-week"
 ---
 
-It has been a long time yet again, but I'm back with another list of games. This time I had too many nice games so I will be splitting this edition into two. I will post the second part next week. But for now, New Games I've Played Sometime Recently:
+It has been a long time yet again, but I'm back with another list of games. This time I had too many nice games so I will be splitting this edition into two. I will post the second part next week. But for now, New Games I've Played Sometime Recently (part 1):
 
 - **Dyson Sphere Program:** I was playing this last time I made this and it was, okay? In DSP you are a mech trying to build factories on a couple of planets to build a dyson sphere to get enough energy to send "compute power" back to your homeland. I play Factorio a lot, so every factory game I play I look through the Factorio lens, and this is one of the games that I enjoyed a lot more after I stopped doing that and embraced what this game does uniquely. Especially towards the late game I had a lot of fun with this one covering a planet from ground level up to the skies with conveyor belts and production lines. It is very satisfying to slowly see the sun get covered with every little rocket you send and see the clockwork machinery slowly cover every planet.
 - **(the) Gnorp Apologue:** This was a nice contained idle/puzzle game where you assign jobs to your increasing number of gnorps to mine a magical rock. I like seeing innovation in the idle game space, and I like this one even more because unlike most idle games this one has a clear end goal. You try different builds with your ability points, and the best build changes over the course of the game as you unlock different abilities.
